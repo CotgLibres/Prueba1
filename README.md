@@ -79,5 +79,3 @@ Mala Practica:
 Asi no, asi no
 */
 
-##  Solicitud de Cambio de Paneles
-##  Modificar Reglamentos
